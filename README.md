@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png)
+![Alt text](passwd.png)
